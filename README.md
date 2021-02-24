@@ -1,7 +1,8 @@
 # Localization-death-knight
+ЧИТАЙ ИНСТРУКЦИЮ! 
 Инструкция по установке
 
-Найти jar с модом. В стиме на линуксе он будет по адресу /Steam/steamapps/workshop/content/646570/1897978748
+Найти jar с модом. Вот сам мод https://steamcommunity.com/sharedfiles/filedetails/?id=1980527302
 
 Открыть архиватором(winrar, Engrampa Archive Manager, 7z) jar архив мода. 
 
