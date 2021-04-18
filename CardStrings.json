@@ -32,7 +32,7 @@
   },
   "DeathKnight:RuneStrike": {
     "NAME": "Рунический удар",
-    "DESCRIPTION": "Наносит !D! урона. NL deathknight:кровавая_руна: наносит половину нанесенного урона. NL deathknight:морозная_руна: даёт !B! защиты. NL deathknight:нечестивая_руна: накладывает !M! deathknight: болезни."
+    "DESCRIPTION": "Наносит !D! урона. NL deathknight:кровавая_руна: наносит половину нанесенного урона. NL deathknight:морозная_руна: даёт !B! защиты. NL deathknight:нечестивая_руна: накладывает !M! deathknight:болезни."
   },
   "DeathKnight:PotionCard": {
     "NAME": "PotionName",
@@ -82,7 +82,7 @@
   },
   "DeathKnight:DeathAndDecay": {
     "NAME": "Смерть и Разложение",
-    "DESCRIPTION": "Наносит !D! урона всем врагам. NL deathknight:нечестивая_руна: накладывает 1 deathknight: болезнь каждому врагу."
+    "DESCRIPTION": "Наносит !D! урона всем врагам. NL deathknight:нечестивая_руна: накладывает 1 deathknight:болезнь каждому врагу."
   },
   "DeathKnight:DeathCoil": {
     "NAME": "Лик смерти",
@@ -154,11 +154,11 @@
   },
   "DeathKnight:Pestilence": {
     "NAME": "Мор",
-    "DESCRIPTION": "Накладывает !M! deathknight: болезнь случайным врагам. NL Даёт 1 deathknight:нечестивую_руну и deathknight:Смертоносную чуму."
+    "DESCRIPTION": "Накладывает !M! deathknight:болезнь случайным врагам. NL Даёт 1 deathknight:нечестивую_руну и deathknight:Смертоносную чуму."
   },
   "DeathKnight:PlagueStrike": {
     "NAME": "Чумной удар",
-    "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! deathknight: болезнь. NL Даёт 1 deathknight:нечестивую_руну."
+    "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! deathknight:болезнь. NL Даёт 1 deathknight:нечестивую_руну."
   },
   "DeathKnight:ChainsOfIce": {
     "NAME": "Лядяные оковы",
@@ -231,8 +231,8 @@
   },
   "DeathKnight:Contagion": {
     "NAME": "Заражение",
-    "DESCRIPTION": "В начале каждого хода , Накладывает 1 deathknight: болезнь случаному врагу.",
-    "UPGRADE_DESCRIPTION": "Начальная. NL В начале каждого хода, Накладывает 1 deathknight: болезнь случайному врагу."
+    "DESCRIPTION": "В начале каждого хода , Накладывает 1 deathknight:болезнь случаному врагу.",
+    "UPGRADE_DESCRIPTION": "Начальная. NL В начале каждого хода, Накладывает 1 deathknight:болезнь случайному врагу."
   },
   "DeathKnight:DarkSuccor": {
     "NAME": "Темная опека",
@@ -296,7 +296,7 @@
   },
   "DeathKnight:MutagenicPlague": {
     "NAME": "Мутировавшая чума",
-    "DESCRIPTION": "Добовляет случайную deathknight: болезненую карту в руку. NL Она стоит 0 в этом ходу. NL Сжигается."
+    "DESCRIPTION": "Добовляет случайную deathknight:болезненую карту в руку. NL Она стоит 0 в этом ходу. NL Сжигается."
   },
   "DeathKnight:Obliterate": {
     "NAME": "Уничтожение",
@@ -318,11 +318,11 @@
   },
   "DeathKnight:FesteringStrike": {
     "NAME": "Удар разложения",
-    "DESCRIPTION": "Наносит !D! урона. NL Цел получает дополнительный урон от своей deathknight: болезни. NL deathknight:нечестивая_руна: даёт 1 deathknight:Смертоносную чуму."
+    "DESCRIPTION": "Наносит !D! урона. NL Цел получает дополнительный урон от своей deathknight:болезни. NL deathknight:нечестивая_руна: даёт 1 deathknight:Смертоносную чуму."
   },
   "DeathKnight:FoulBulwark": {
     "NAME": "Грязный бастион ",
-    "DESCRIPTION": "Даёт !B! Защиты. NL  полностью заблокированный урона в этом ходу, накладывает 1 deathknight: болезнь и даёт 1 deathknight:нечестивую_руну."
+    "DESCRIPTION": "Даёт !B! Защиты. NL  полностью заблокированный урона в этом ходу, накладывает 1 deathknight:болезнь и даёт 1 deathknight:нечестивую_руну."
   },
   "DeathKnight:UnholyAssault": {
     "NAME": "Нечестивый натиск",
@@ -331,7 +331,7 @@
   "DeathKnight:UnholyFrenzy": {
     "NAME": "Нечестивое безумие",
     "DESCRIPTION": "deathknight:порчный круг !M!. NL deathknight:нечестивая_руна: даёт [E].",
-    "UPGRADE_DESCRIPTION": "deathknight:порчный круг !M!. NL deathknight:нечестивая_руна: NL даёт [E] [E]."
+    "UPGRADE_DESCRIPTION": "deathknight:порочный круг !M!. NL deathknight:нечестивая_руна: NL даёт [E] [E]."
   },
 
 
@@ -369,8 +369,8 @@
   },
   "DeathKnight:Outbreak": {
     "NAME": "Эпидемия",
-    "DESCRIPTION": "Накладывает X deathknight: болезнь. NL Даёт X deathknight:нечестивых_рун.",
-    "UPGRADE_DESCRIPTION": "Накладывает X+1 deathknight: болезнь. NL Даёт X+1 deathknight:нечестивых_рун."
+    "DESCRIPTION": "Накладывает X deathknight:болезнь. NL Даёт X deathknight:нечестивых_рун.",
+    "UPGRADE_DESCRIPTION": "Накладывает X+1 deathknight:болезнь. NL Даёт X+1 deathknight:нечестивых_рун."
   },
   "DeathKnight:Razorice": {
     "NAME": "Режущий ледь",
@@ -428,8 +428,8 @@
   },
   "DeathKnight:Rot": {
     "NAME": "Гниль",
-    "DESCRIPTION": "Наносит !D! урона за каждую  deathknight: болезнь. NL Сжигается. NL deathknight:нечестивая_руна: не Сжигается.",
-    "UPGRADE_DESCRIPTION": "Наносит !D! урона за каждую  deathknight: болезнь. урона зависить от  Смертоносной чумы NL Сжигается. NL deathknight:нечестивая_руна: не Сжигается."
+    "DESCRIPTION": "Наносит !D! урона за каждую  deathknight:болезнь. NL Сжигается. NL deathknight:нечестивая_руна: не Сжигается.",
+    "UPGRADE_DESCRIPTION": "Наносит !D! урона за каждую  deathknight:болезнь. урона зависить от  Смертоносной чумы NL Сжигается. NL deathknight:нечестивая_руна: не Сжигается."
   },
   "DeathKnight:BloodEchoes": {
     "NAME": "Эхо крови",
