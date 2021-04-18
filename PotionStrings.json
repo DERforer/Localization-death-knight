@@ -1,0 +1,37 @@
+{
+  "DeathKnight:VirulencePotion" : {
+    "NAME": "Зелье смертоносной чумы",
+    "DESCRIPTIONS" : [
+      "Даёт ",
+      " Смертоносную чуму."
+    ]
+  },
+  "DeathKnight:RunicPotion" : {
+    "NAME": "Руническое Зелье",
+    "DESCRIPTIONS" : [
+      "Даёт ",
+      " по каждой руне."
+    ]
+  },
+  "DeathKnight:PlagueVial" : {
+    "NAME": "Чумное Зелье",
+    "DESCRIPTIONS" : [
+      "Накладывает ",
+      " Болезнь на всех врагов."
+    ]
+  },
+  "DeathKnight:BottledBloodEchoes" : {
+    "NAME": " Бутылка кровавого эхо",
+    "DESCRIPTIONS" : [
+      "Даёт ",
+      " Кровавое эхо."
+    ]
+  },
+  "DeathKnight:RimePotion" : {
+    "NAME": "Морозное Зелье",
+    "DESCRIPTIONS" : [
+      "Цель теряет",
+      " Силу, и восстанавливает только 1 силу за ход ."
+    ]
+  }
+}
