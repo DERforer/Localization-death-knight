@@ -1,9 +1,9 @@
-# Localization-death-knight
-ЧИТАЙ ИНСТРУКЦИЮ! и файл Readme.md не клади в папку, ты же не дурак да? 
-Инструкция по установке
+# Localization-death-knight 
 
-Найти jar с модом. Вот сам мод https://steamcommunity.com/sharedfiles/filedetails/?id=1980527302
+Видео по установке модов на Шпиль-https://youtu.be/bBMtYdGAk0g
 
-Открыть архиватором(winrar, Engrampa Archive Manager, 7z) jar архив мода. 
+Сам мод мастерской. Вот ссылка: https://steamcommunity.com/sharedfiles/filedetails/?id=1980527302
 
-Заменить JSON файлы локализации
+Файл Readme.md можешь не скачивать
+
+Найти Jar мода. Открыть любым архиватором(winrar, Engrampa Archive Manager, 7z) jar архив мода. Найти файл localization и заменить JSON файлы мода на те что скачал 
